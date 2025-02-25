@@ -1,2 +1,2 @@
 # selenium-ui-test-digitalskola
-https://drive.google.com/file/d/1WD0tUpmGpJ2rJ5znGNrqLk3WYEXDrZru/view?usp=sharing
+https://drive.google.com/file/d/1DR64S91XYXOANnw3JXoetDxlvWcWHqgW/view?usp=sharing
